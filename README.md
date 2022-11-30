@@ -1,6 +1,7 @@
 # MassSpecDataExtraction
 Extract data from Mass Spectrometry output files in order to normalize area fragments for peptides from different samples
 
+
 #Usage
 1. Place the downloaded MS1 and MS2 and the PGroupsTest .xlsm files into a directory.
 
